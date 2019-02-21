@@ -36,6 +36,10 @@ self.Orderid = Orderid
         print("Productarray : \(Productarray)")
         
     }
+    func createorder(){
+        print(Prod1,prod2,prod3,prod4,prod5)
+        print ("total price :\(Quantity * totalprice )")
+    }
     //func createorder() -> Int
     //{
        //if (createorder == 1){
